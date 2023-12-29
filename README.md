@@ -1,9 +1,11 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Pinti0001.io)
 <h1 align="center">Hi 👋, I'm Harendra Prajapat</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinti0001&label=Profile%20views&color=0e75b6&style=flat" alt="pinti0001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinti0001" alt="pinti0001" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinti0001&label=Profile%20views&color=0e75b6&style=flat" alt="pinti0001" /> </p>
+<img align = "right" alt="Coding Lover" width="500" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif">
+
 
 - 🌱 I’m currently learning **DSA and React**
 
